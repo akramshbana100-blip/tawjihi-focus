@@ -1,0 +1,17 @@
+{
+  "name": "Tawjihi Pomodoro",
+  "short_name": "Tawjihi Pomodoro",
+  "description": "A flip clock Pomodoro study timer with 7 image themes and background YouTube audio.",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0D1216",
+  "theme_color": "#0D1216",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
